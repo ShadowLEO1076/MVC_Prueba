@@ -1,4 +1,3 @@
-console.log("Hello, World!");
 const express = require('express');
 const userRouter = require('./Routes/userRoutes');
 const app = express();
